@@ -1,0 +1,18 @@
+.country-circle {
+    fill: #81d4fa;
+    opacity: .8;
+    stroke: white;
+    stroke-width: 1px;
+}
+
+.country-circle_hovered {
+    fill: #ffe67b;
+}
+
+.country-name {
+    font: 10px Arial;
+}
+
+.country-name_hovered {
+    font: 20px Arial;
+}
